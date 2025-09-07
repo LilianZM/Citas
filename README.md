@@ -55,11 +55,5 @@ citas/
 ## 👨‍💻 Desarrollado por
 
 **Brenda Lisseth Zambrano Muñoz**
-- Instituto Tecnológico de Jiquilpan
+- Instituto Tecnológico Japon
 
-## 📄 Licencia
-
-Este proyecto es de uso educativo.
-
----
-⭐ Si te gusta este proyecto, ¡dale una estrella en GitHub!
